@@ -189,3 +189,6 @@ body{
 .container.active .toggle-right{
     transform: translatex(200%);
 }
+.btn{
+    opacity: 0.9;
+}
