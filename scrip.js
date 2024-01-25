@@ -2,7 +2,7 @@
 const container = document.getElementById('container');
 const registerBtn = document.getElementById('register');
 const loginBtn = document.getElementById('login');
-// active
+// lang nghe hanh dong click
 registerBtn.addEventListener('click', () =>{ 
   container.classList.add("active");
 });
